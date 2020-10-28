@@ -11,3 +11,16 @@ date()
 ```
 The text continues here.
 
+So, I suppose this is where I should write about my thoughts and feelings, right?
+
+Well, I right now I feel tired. And I am still not entirely sure what to learn in this course. I heard about it from an email appearing in  my inbox.
+
+In order to use some Markdown syntax, here is the reference for one paper from the research group I am working in:
+
+Repo *et al.*, *Chem. Eur. J* **2020**, *26*, 1-8.
+[https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/chem.202001436]
+
+
+And here is the link for the GitHUb repository:
+[https://github.com/SarahSeefried/IODS-project]
+
